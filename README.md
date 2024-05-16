@@ -1,5 +1,5 @@
 <h2> Heey👋, I’m Anas FLAKTI </h2>
-<hr/>
+
 Full-stack developer specialized in Laravel & React technologies. Passionate about creating innovative web applications, I have a solid experience in server-side and client-side development. 
 
 
