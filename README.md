@@ -5,8 +5,7 @@ Full-stack developer specialized in the MERN Stack (MongoDB, Express.js, ReactJS
 
 ## 🌐 Socials :
 
-<a href="https://www.linkedin.com/in/anas-flakti-7b0b03226/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anas-flakti-7b0b03226/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](anasflakti2020@gmail.com)
 
 ## 💻 Skills :
 
